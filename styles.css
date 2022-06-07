@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: center;
+   
+    
+}
+
+#lightImg {
+    position: absolute;
+    width: 200px;
+    height: 350px;
+}
+
+#light {
+    position: absolute;
+    width: 200px;
+}
+
+#lightOn {
+    width: 200px;
+    position: absolute;
+    display: none;
+
+}
+
+.lightImg:hover {
+    cursor: pointer;
+}
